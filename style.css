@@ -53,7 +53,7 @@ a:visited{
 	margin-bottom: 10px;
 }
 
-@media (max-width: 700px){
+@media (max-width: 600px){
 	.info{
 		text-align: center;
 		display: block;
